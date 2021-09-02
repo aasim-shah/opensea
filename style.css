@@ -1,0 +1,56 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    font-family: sans-serif !important;
+}
+strong{
+    font-weight: 700;
+    font-size: 27px;
+}
+.src-form{
+    position: relative;
+
+}
+.search-icon{
+    position: absolute;
+    top: 19px;
+    left: 36px;
+}
+.menu-text{
+    font-weight: 600;
+    font-size: 23px;
+}
+.nav-item{
+    padding-right: 55px !important;
+}
+.first-main{
+    min-height: 70vh;
+    
+    margin-top: 30px;
+}
+.inner-left{
+    min-height: 60vh;
+    padding-left: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.heading{
+    font-size: 70px;
+    font-weight: 700;
+}
+.heading-text{
+    font-size: 40px;
+      font-weight: 500;
+ }
+.inner-right{
+    min-height: 60vh;
+
+}
+.video{
+    background-color: black;
+    min-height: 45vh;
+    
+}
