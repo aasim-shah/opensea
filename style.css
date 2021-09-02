@@ -54,6 +54,9 @@ strong{
     min-height: 45vh;
     
 }
+.search-input{
+    width: 450px;
+}
 @media only screen and (max-width:500px){
     .heading{
         font-size: 33px;
@@ -62,5 +65,11 @@ strong{
     .heading-text{
         font-size: 18px;
           font-weight: 500;
+     }
+     .search-input{
+         width: 100px;
+     }
+     .search-icon{
+         display: none;
      }
 }
